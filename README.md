@@ -1,5 +1,5 @@
 <div> 
- <h1>Prazer, eu sou a Juliana!</h1>
+ <h1>Prazer, eu sou a Juliana!
  <h3>Atualmente estudante de Sistemas de Informação na USP :)</h3>
 </div>
  
