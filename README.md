@@ -1,6 +1,6 @@
 <div> 
  <h1>Prazer, eu sou a Juliana!</h1>
- <h3>Atualmente estudo Sistemas de Informação na USP</h3>
+ <h3>Atualmente estudante Sistemas de Informação na USP :)</h3>
 </div>
  
 <div align="center">
